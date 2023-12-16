@@ -72,10 +72,10 @@ ul {
 
 .House_Jam_header_italics {
     color: #00FF82 !important;
-    font-family: Gambetta,General Sans,sans-serif !important;
-    font-family: var(--font-family-italic) !important;
+    font-family: 'Righteous', sans-serif !important;
+    /*font-family: var(--font-family-italic) !important;*/
     font-size: calc(100% + 2px) !important;
-    font-style: italic !important;
+    /*font-style: italic !important;*/
     font-weight: inherit !important;
 }
 
