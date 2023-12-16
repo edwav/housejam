@@ -1,6 +1,6 @@
 /* Navbar */
 body {
-    background-color: ivory;
+    background-color: black;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ p {
 }
 
 .topnav {
-    background-color: gray;
+    background-color: #000010;
     height: fit-content;
     display: flex;
 }
@@ -55,4 +55,30 @@ ul {
     list-style-type: none;
     text-align: center;
     padding: 0;
+}
+
+.Introducing_header {
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1.6px;
+    color: ivory;
+}
+
+.House_Jam_subdesc {
+    font-size: 48px !important;
+    font-weight: 300 !important;
+    color: ivory;
+}
+
+.House_Jam_header_italics {
+    color: #00FF82 !important;
+    font-family: Gambetta,General Sans,sans-serif !important;
+    font-family: var(--font-family-italic) !important;
+    font-size: calc(100% + 2px) !important;
+    font-style: italic !important;
+    font-weight: inherit !important;
+}
+
+.full_page_container {
+    background-color: black;
 }
