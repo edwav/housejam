@@ -1,0 +1,84 @@
+/* Navbar */
+body {
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+  
+p {
+    text-align: center;
+}
+
+.topnav {
+    background-color: #000010;
+    height: fit-content;
+    display: flex;
+}
+  
+li {
+    display: inline;
+    height: 50px;
+    padding-left: 70px;
+}
+  
+li a {
+    text-decoration: none;
+}
+  
+.nav-links {
+    padding-right: 80px;
+    padding-top: 2px;
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+}
+  
+.nav-links a {
+    color: white;
+    font-family: "Century Gothic";
+    font-weight: bolder;
+    font-size: 20px;
+}
+  
+.nav-img {
+    display: inline;
+    margin: auto 15px;
+    display: block;
+}
+  
+#nav-img {
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+.Introducing_header {
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1.6px;
+    color: ivory;
+}
+
+.House_Jam_subdesc {
+    font-size: 48px !important;
+    font-weight: 300 !important;
+    color: ivory;
+}
+
+.House_Jam_header_italics {
+    color: #00FF82 !important;
+    font-family: Gambetta,General Sans,sans-serif !important;
+    font-family: var(--font-family-italic) !important;
+    font-size: calc(100% + 2px) !important;
+    font-style: italic !important;
+    font-weight: inherit !important;
+}
+
+.full_page_container {
+    background-color: black;
+}
