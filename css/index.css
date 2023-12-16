@@ -1,0 +1,58 @@
+/* Navbar */
+body {
+    background-color: ivory;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+  
+p {
+    text-align: center;
+}
+
+.topnav {
+    background-color: gray;
+    height: fit-content;
+    display: flex;
+}
+  
+li {
+    display: inline;
+    height: 50px;
+    padding-left: 70px;
+}
+  
+li a {
+    text-decoration: none;
+}
+  
+.nav-links {
+    padding-right: 80px;
+    padding-top: 2px;
+    display: flex;
+    width: fit-content;
+    margin: 0 auto;
+}
+  
+.nav-links a {
+    color: white;
+    font-family: "Century Gothic";
+    font-weight: bolder;
+    font-size: 20px;
+}
+  
+.nav-img {
+    display: inline;
+    margin: auto 15px;
+    display: block;
+}
+  
+#nav-img {
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
