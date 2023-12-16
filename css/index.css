@@ -41,14 +41,19 @@ li a {
     font-size: 20px;
 }
   
-.nav-img {
+.nav-logo {
     display: inline;
     margin: auto 15px;
     display: block;
+    font-family: 'Righteous', sans-serif !important;
+    color: ivory;
 }
   
-#nav-img {
+#nav-logo {
     text-align: left;
+    font-family: 'Righteous', sans-serif !important;
+    color: ivory;
+
 }
 
 ul {
@@ -70,8 +75,8 @@ ul {
     color: ivory;
 }
 
-.House_Jam_header_italics {
-    color: #00FF82 !important;
+.House_Jam_header {
+    color: ivory !important;
     font-family: 'Righteous', sans-serif !important;
     /*font-family: var(--font-family-italic) !important;*/
     font-size: calc(100% + 2px) !important;
